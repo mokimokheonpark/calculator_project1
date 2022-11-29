@@ -1,3 +1,1 @@
-# calculator_project1
-
-# in one package
+# calculator_project in one package
